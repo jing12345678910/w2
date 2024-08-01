@@ -14,7 +14,7 @@ a {
   color: #ffffff;
 }
 .container {
-  width: 1296px ;
+  width: 1296px;
   margin: 0 auto;
 }
 /* nav */
@@ -90,8 +90,8 @@ button p {
   background-size: cover; /* 圖片盡量填滿容器 */
   background-position: center;
   height: 920px;
-  width: 100vw;
-  margin-left: calc((1296px - 100vw) / 2);
+  /* width: 100vw; */
+  /* margin-left: calc((1296px - 100vw) / 2); */
 }
 .introduction_content {
   width: 1296px;
@@ -130,7 +130,7 @@ button p {
   padding: 160px 0;
   background-color: #e3e3e3;
   color: #15161d;
-  width: 100vw;
+  /* width: 100vw; */
 }
 
 .about .container {
